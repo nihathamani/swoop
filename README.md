@@ -10,6 +10,6 @@
 ## About Sort and Reverse array
 
 This is a laravel project and implements the sort, reverse array function in the controller.
-The function called 'sortReverseArray' sits in 'algorithmController' 
-Route is <url>/sort
+The function called 'sortReverseArray' sits in 'algorithmController'. 
+Route is <url>/sort.
  
